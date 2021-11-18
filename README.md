@@ -37,6 +37,7 @@ Uses: for computing frequency spectrum, filtering, etc
 - ```LPCModule.py``` is the backend with the core LPC analysis
 - ```should.wav``` and ```CantinaBand3.wav``` are few inputs to test the code
 -  ```report.pdf``` and ```lpc.ipynb``` contains the report for theory & explanation of codes
+-  ```Usermanual.pdf``` contains how to use the UI
 
 ## Usage
 
@@ -44,6 +45,9 @@ Uses: for computing frequency spectrum, filtering, etc
 
 ## Author
 > Rajesh R, MS Research Scholar, School of Computing & Electrical Engineering, Indian Institute of Technology, Mandi
-> 
+>  
 > Under Professor, Dr. Padmanabhan Rajan
+
+> *Mail: S21005@students.iitmandi.ac.in*
+
 
