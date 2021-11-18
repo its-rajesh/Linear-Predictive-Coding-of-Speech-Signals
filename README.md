@@ -1,8 +1,8 @@
 # Linear-Predictive-Coding-of-Speech-Signals
 
-Linear Predictive Coding of Speech Analysis works on a basic principle that sample can be approximated as **linear combination of past speech samples** and my minimizing the sum of squared differences over finite interval between the actual speech samples and the linearly predicted ones, a unique set of predictor coefficients can be determined.
+Linear Predictive Coding of Speech Analysis works on a basic principle that sample can be approximated as **linear combination of past speech samples** and by minimizing the sum of squared differences over the finite interval between the actual speech samples and the linearly predicted ones, a unique set of predictor coefficients can be determined.
 
-This project uses one of the application of LPC-A. Here we can generate or load an audio, analyse the time domain specs, frequency domain specs, LPC envelope of each frames and compressing audio based on LPC.
+This project uses one of the applications of LPC-A. Here we can generate or load audio, analyze the time domain specs, frequency domain specs, LPC envelope of each frame, and compress audio based on LPC.
 
 ## Pre-requisites
 Make sure you have installed the following packages:
@@ -29,4 +29,21 @@ Uses: for performing lpc analysis
 
 6) scipy: ```pip install scipy```
 
-Uses: for computing frequency spectrum, filtering etc
+Uses: for computing frequency spectrum, filtering, etc
+
+## Whats In?
+
+- ```mainUI.py``` code comprises of UI components
+- ```LPCModule.py``` is the backend with the core LPC analysis
+- ```should.wav``` and ```CantinaBand3.wav``` are few inputs to test the code
+-  ```report.pdf``` and ```lpc.ipynb``` contains the report for theory & explanation of codes
+
+## Usage
+
+```python mainUI.py```
+
+## Author
+> Rajesh R, MS Research Scholar, School of Computing & Electrical Engineering, Indian Institute of Technology, Mandi
+> 
+> Under Professor, Dr. Padmanabhan Rajan
+
