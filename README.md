@@ -37,6 +37,7 @@ Uses: for computing frequency spectrum, filtering, etc
 
 - ```mainUI.py``` code comprises of UI components
 - ```LPCModule.py``` is the backend with the core LPC analysis
+- ```LPC.py``` has the LPC implementation without the UI
 - ```should.wav``` and ```CantinaBand3.wav``` are few inputs to test the code
 -  ```report.pdf``` and ```LPC.ipynb``` contains the report for theory & explanation of codes
 -  ```Usermanual.pdf``` contains how to use the UI
