@@ -39,7 +39,7 @@ Uses: for computing frequency spectrum, filtering, etc
 - ```LPCModule.py``` is the backend with the core LPC analysis
 - ```LPC.py``` has the LPC implementation without the UI
 - ```should.wav``` and ```CantinaBand3.wav``` are few inputs to test the code
--  ```[Report.pdf](www.google.com)``` and ```LPC.ipynb``` contains the report for theory & explanation of codes
+-  [Report.pdf](https://github.com/Rajesh-Smartino/Linear-Predictive-Coding-of-Speech-Signals/blob/0c1843581ce0ecf588b9a4e1b50172c1d224a2ad/Report.pdf) and ```LPC.ipynb``` contains the report for theory & explanation of codes
 -  ```Usermanual.pdf``` contains how to use the UI
 
 ## Usage
