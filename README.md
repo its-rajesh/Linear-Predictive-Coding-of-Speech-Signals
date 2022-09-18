@@ -46,11 +46,3 @@ Uses: for computing frequency spectrum, filtering, etc
 
 ```python mainUI.py```
 
-## Author
-> Rajesh R, MS Research Scholar, School of Computing & Electrical Engineering, Indian Institute of Technology, Mandi
->  
-> Under Professor, Dr. Padmanabhan Rajan
-
-> *Mail: S21005@students.iitmandi.ac.in*
-
-
